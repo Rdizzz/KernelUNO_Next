@@ -5,7 +5,7 @@ A Unix-like shell and RAM filesystem for Arduino UNO R3. Write files, control GP
 <img width="769" height="659" alt="554" src="https://github.com/user-attachments/assets/82aa5f0c-bf22-4f83-865a-ba3b4258011e" />
 
 
-# Commands:
+# Commands (26):
 
 - `ls`
 - `cd`
