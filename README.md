@@ -2,7 +2,7 @@
 
 A Unix-like shell and RAM filesystem for Arduino UNO R3. Write files, control GPIO pins, read sensors, and run simple scripts all from the serial terminal.
 
-<img width="769" height="659" alt="554" src="https://github.com/user-attachments/assets/82aa5f0c-bf22-4f83-865a-ba3b4258011e](https://github.com/Rdizzz/KernelUNO_Next/blob/main/1.png" />
+<img width="769" height="659" alt="554" src="https://github.com/user-attachments/assets/82aa5f0c-bf22-4f83-865a-ba3b4258011e"/>
 
 
 # Commands (26):
