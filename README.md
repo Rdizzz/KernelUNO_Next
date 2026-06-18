@@ -101,4 +101,4 @@ Input is buffered from the Serial connection (UART) and parsed line-by-line. The
 
 BSD3 - Original by [Arc1011](https://github.com/Arc1011/KernelUNO)
 
-this is a fork https://github.com/Arc1011/KernelUNO but very much better and i grabbed coconix
+this is a fork https://github.com/Arc1011/KernelUNO but very much better and i grabbed coconix https://github.com/Mojavesoft-Group/coconix
