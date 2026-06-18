@@ -49,10 +49,7 @@ Input is buffered from the serial connection and parsed line-by-line. Commands a
 
 ## Planned Features
 
-- EEPROM support
-- I2C interface
-- Date cmd
-- neofetch cmd
+-  I Dont Know What Needed
 
 ## License
 
