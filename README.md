@@ -1,6 +1,6 @@
 # KernelUNO v1.6 NEXT
 
-A Unix-like shell and RAM filesystem for Arduino UNO R3. Write files, control GPIO pins, read sensors, and run simple scripts all from the serial terminal.
+A Unix-like shell and RAM filesystem for Arduino UNO R3 and other microcontrollers. Write files, control GPIO pins, read sensors, and run simple scripts all from the serial terminal.
 
 <img width="769" height="659" alt="554" src="https://github.com/Rdizzz/KernelUNO_Next/blob/main/1.png"/>
 
